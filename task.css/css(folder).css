@@ -1,0 +1,181 @@
+.a{
+	height:1100px;
+	width: 100%;
+	background-color:lightgray;
+}
+.b{
+	height: 80px;
+	width: 900px;
+	background-color: lightgray;
+	margin-left: 200px;
+}
+.c{
+	height: 100px;
+	width: 300px;
+	background-color: white;
+	float: left;
+	margin: 20px;
+	border-radius: 20px;
+}
+.d{
+	height: 100px;
+	width: 300px;
+	background-color: white;
+	float: left;
+	margin: 20px;
+	border-radius: 20px;
+}
+.e{
+	height: 100px;
+	width: 900px;
+	background-color: lightgray;
+	margin-left: 200px;
+
+}
+.f{
+	height: 100px;
+	width: 300px;
+	background-color: white;
+	float: left;
+	margin: 20px;
+	border-radius: 20px;
+}
+.g{
+	height: 100px;
+	width: 300px;
+	background-color: white;
+	float: left;
+	margin: 20px;
+	border-radius: 20px;
+}
+.h{
+	height: 1750px;
+	width: 100%;
+	background-color: lightgray;
+	margin-top: 150px;
+}
+.k{
+	position: absolute;
+	right: 230px;
+	margin: 100px;
+}
+.i{
+	height:800px;
+	width: 800px;
+	background-color: blue;
+	margin: 250px;
+	float: left;
+	border-radius: 50%;
+	
+}
+image{
+	width: 70%;
+}
+.j{
+	height: 600px;
+	width: 500px;
+	background-color:lightgray;
+	float: left;
+	margin-top: 250px;
+}
+button{
+	background-color: blue;
+	border-radius: 30px;
+}
+.l{
+	margin-top:20px ;
+}
+i{
+	font-size: 80px;
+	float: left;
+	font-size: 50px;
+	margin-left: 10px;
+	background-color: blue;
+	border-radius: 50%;
+}
+b{
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+p{
+	margin-top: 30px;
+}
+.o{
+	height: 1000px;
+	width: 100%;
+	background-color: lightgrey;
+	margin-top: 20px;
+}
+.r{
+	position: relative;
+	float: left;
+	margin-top: 400px;
+	margin-left: 100px;
+}
+.p{
+	position:relative;
+	margin: 20px;
+	right: 250px ;
+}
+.s{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+	float: right;
+	margin-bottom: 100px;
+	position: relative;
+	bottom: 800px;
+	right: 250px;
+	border-radius: 50%;
+}
+.X{
+	height: 600px;
+	width: 100%;
+	background-color: lightgrey;
+}
+.y{
+	font-size: 50px;
+}
+.z{
+	height: 300px;
+	width: 800px;
+	background-color: lightgray;
+}
+.ab{
+	height: 300px;
+	width: 250px;
+	background-color: blue;
+	float: left;
+}
+.bc{
+	height: 300px;
+	width: 250px;
+	background-color: blue;
+	float: left;
+	margin-left: 25px;
+}
+.cd{
+	height: 300px;
+	width: 250px;
+	background-color: blue;
+	float: left;
+	margin-left: 25px;
+}
+.ra{
+	height: 800px;
+	width: 100%;
+	background-color: lightgray;
+	margin-top: 20px;
+}
+.ak{
+	height: 500px;
+	width: 600px;
+	background-color: blue;
+	margin-top: 40px;
+}
+.es{
+	position: relative;
+	bottom: 400px;
+	right: 200px;
+}
